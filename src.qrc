@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>pic/dir.ico</file>
+        <file>pic/file.ico</file>
+        <file>pic/back.ico</file>
+        <file>pic/save.ico</file>
+        <file>pic/edit.ico</file>
+    </qresource>
+</RCC>
